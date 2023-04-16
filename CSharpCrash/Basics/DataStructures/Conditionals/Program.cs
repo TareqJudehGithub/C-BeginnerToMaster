@@ -12,11 +12,11 @@ class Program
 
     Console.WriteLine($"Is {numA} > {numB} ? Result = {isEqual}");
 
-    string wordA = "1";
-    int wordB = 1;
+    string wordA = "11";
+    int wordB = 12;
 
-    System.Console.WriteLine(wordA.Equals(wordB));
+    Console.WriteLine(wordA.Equals(wordB));
     //System.Console.WriteLine(wordA == wordB);
-    System.Console.WriteLine(0.002 - 0.001);
+
   }
 }
