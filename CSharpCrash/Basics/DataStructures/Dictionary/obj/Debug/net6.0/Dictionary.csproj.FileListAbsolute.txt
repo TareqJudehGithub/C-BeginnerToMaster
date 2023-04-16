@@ -1,0 +1,15 @@
+E:\web\ASP_NET\DominicTripodi\CSharpBeginnerToMaster\CSharpCrash\Basics\DataStructures\Dictionary\bin\Debug\net6.0\Dictionary.exe
+E:\web\ASP_NET\DominicTripodi\CSharpBeginnerToMaster\CSharpCrash\Basics\DataStructures\Dictionary\bin\Debug\net6.0\Dictionary.deps.json
+E:\web\ASP_NET\DominicTripodi\CSharpBeginnerToMaster\CSharpCrash\Basics\DataStructures\Dictionary\bin\Debug\net6.0\Dictionary.runtimeconfig.json
+E:\web\ASP_NET\DominicTripodi\CSharpBeginnerToMaster\CSharpCrash\Basics\DataStructures\Dictionary\bin\Debug\net6.0\Dictionary.dll
+E:\web\ASP_NET\DominicTripodi\CSharpBeginnerToMaster\CSharpCrash\Basics\DataStructures\Dictionary\bin\Debug\net6.0\Dictionary.pdb
+E:\web\ASP_NET\DominicTripodi\CSharpBeginnerToMaster\CSharpCrash\Basics\DataStructures\Dictionary\obj\Debug\net6.0\Dictionary.csproj.AssemblyReference.cache
+E:\web\ASP_NET\DominicTripodi\CSharpBeginnerToMaster\CSharpCrash\Basics\DataStructures\Dictionary\obj\Debug\net6.0\Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\DominicTripodi\CSharpBeginnerToMaster\CSharpCrash\Basics\DataStructures\Dictionary\obj\Debug\net6.0\Dictionary.AssemblyInfoInputs.cache
+E:\web\ASP_NET\DominicTripodi\CSharpBeginnerToMaster\CSharpCrash\Basics\DataStructures\Dictionary\obj\Debug\net6.0\Dictionary.AssemblyInfo.cs
+E:\web\ASP_NET\DominicTripodi\CSharpBeginnerToMaster\CSharpCrash\Basics\DataStructures\Dictionary\obj\Debug\net6.0\Dictionary.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\DominicTripodi\CSharpBeginnerToMaster\CSharpCrash\Basics\DataStructures\Dictionary\obj\Debug\net6.0\Dictionary.dll
+E:\web\ASP_NET\DominicTripodi\CSharpBeginnerToMaster\CSharpCrash\Basics\DataStructures\Dictionary\obj\Debug\net6.0\refint\Dictionary.dll
+E:\web\ASP_NET\DominicTripodi\CSharpBeginnerToMaster\CSharpCrash\Basics\DataStructures\Dictionary\obj\Debug\net6.0\Dictionary.pdb
+E:\web\ASP_NET\DominicTripodi\CSharpBeginnerToMaster\CSharpCrash\Basics\DataStructures\Dictionary\obj\Debug\net6.0\Dictionary.genruntimeconfig.cache
+E:\web\ASP_NET\DominicTripodi\CSharpBeginnerToMaster\CSharpCrash\Basics\DataStructures\Dictionary\obj\Debug\net6.0\ref\Dictionary.dll

@@ -1,0 +1,55 @@
+Hotkeys and Macros
+Hello, here is a list of all of the hotkeys that we will be using throughout the course, and for Windows users we also have an “AutoHotKey” file to set up some macros at the link at the bottom.
+
+
+
+Double click - Select whole word
+
+Ctrl+c / cmd+c - copy
+
+Ctrl+v / cmd+v - paste
+
+Ctrl+x / cmd+x - cut
+
+Ctrl+. / cmd+. - Search for import/using
+
+Ctrl+Space / cmd+Space - expand star
+
+F12 - Go To Definition (of method/variable/SQL Table/ SQL Stored Procedure)
+
+Alt+Shift+f / Option+Shift+f - Format Code (VS Code only)
+
+Ctrl + k + c / cmd + k + c - Comment out selected lines
+
+Ctrl + k + u / cmd + k + u - Uncomment selected lines
+
+
+
+
+
+
+
+Install AHK: https://lexikos.github.io/v2/docs/Tutorial.htm#s11
+
+Download Script: https://drive.google.com/file/d/1-Ql4Dh_J4a1GpdyslRWbCLLCUn_fIl3O/view?usp=share_link
+
+
+
+HotKeys from this AHK File:
+
+Double Click and Copy (Double Click ctrl+c) - f1
+
+Double Click and Past (Double Click ctrl+v) - f2
+
+Undo (ctrl+z) - f3
+
+Redo (ctrl+y) - f4
+
+
+
+Restart AHK Script - ctrl-alt-r
+
+Edit AHK Script - ctrl-alt-e
+
+
+

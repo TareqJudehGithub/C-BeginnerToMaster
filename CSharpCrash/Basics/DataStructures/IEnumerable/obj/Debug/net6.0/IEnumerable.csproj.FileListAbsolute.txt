@@ -1,0 +1,15 @@
+E:\web\ASP_NET\DominicTripodi\CSharpBeginnerToMaster\CSharpCrash\Basics\DataStructures\IEnumerable\bin\Debug\net6.0\IEnumerable.exe
+E:\web\ASP_NET\DominicTripodi\CSharpBeginnerToMaster\CSharpCrash\Basics\DataStructures\IEnumerable\bin\Debug\net6.0\IEnumerable.deps.json
+E:\web\ASP_NET\DominicTripodi\CSharpBeginnerToMaster\CSharpCrash\Basics\DataStructures\IEnumerable\bin\Debug\net6.0\IEnumerable.runtimeconfig.json
+E:\web\ASP_NET\DominicTripodi\CSharpBeginnerToMaster\CSharpCrash\Basics\DataStructures\IEnumerable\bin\Debug\net6.0\IEnumerable.dll
+E:\web\ASP_NET\DominicTripodi\CSharpBeginnerToMaster\CSharpCrash\Basics\DataStructures\IEnumerable\bin\Debug\net6.0\IEnumerable.pdb
+E:\web\ASP_NET\DominicTripodi\CSharpBeginnerToMaster\CSharpCrash\Basics\DataStructures\IEnumerable\obj\Debug\net6.0\IEnumerable.csproj.AssemblyReference.cache
+E:\web\ASP_NET\DominicTripodi\CSharpBeginnerToMaster\CSharpCrash\Basics\DataStructures\IEnumerable\obj\Debug\net6.0\IEnumerable.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\DominicTripodi\CSharpBeginnerToMaster\CSharpCrash\Basics\DataStructures\IEnumerable\obj\Debug\net6.0\IEnumerable.AssemblyInfoInputs.cache
+E:\web\ASP_NET\DominicTripodi\CSharpBeginnerToMaster\CSharpCrash\Basics\DataStructures\IEnumerable\obj\Debug\net6.0\IEnumerable.AssemblyInfo.cs
+E:\web\ASP_NET\DominicTripodi\CSharpBeginnerToMaster\CSharpCrash\Basics\DataStructures\IEnumerable\obj\Debug\net6.0\IEnumerable.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\DominicTripodi\CSharpBeginnerToMaster\CSharpCrash\Basics\DataStructures\IEnumerable\obj\Debug\net6.0\IEnumerable.dll
+E:\web\ASP_NET\DominicTripodi\CSharpBeginnerToMaster\CSharpCrash\Basics\DataStructures\IEnumerable\obj\Debug\net6.0\refint\IEnumerable.dll
+E:\web\ASP_NET\DominicTripodi\CSharpBeginnerToMaster\CSharpCrash\Basics\DataStructures\IEnumerable\obj\Debug\net6.0\IEnumerable.pdb
+E:\web\ASP_NET\DominicTripodi\CSharpBeginnerToMaster\CSharpCrash\Basics\DataStructures\IEnumerable\obj\Debug\net6.0\IEnumerable.genruntimeconfig.cache
+E:\web\ASP_NET\DominicTripodi\CSharpBeginnerToMaster\CSharpCrash\Basics\DataStructures\IEnumerable\obj\Debug\net6.0\ref\IEnumerable.dll

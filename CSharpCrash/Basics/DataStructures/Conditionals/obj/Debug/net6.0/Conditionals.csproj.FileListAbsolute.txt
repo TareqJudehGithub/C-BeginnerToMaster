@@ -1,0 +1,15 @@
+E:\web\ASP_NET\DominicTripodi\CSharpBeginnerToMaster\CSharpCrash\Basics\DataStructures\Conditionals\bin\Debug\net6.0\Conditionals.exe
+E:\web\ASP_NET\DominicTripodi\CSharpBeginnerToMaster\CSharpCrash\Basics\DataStructures\Conditionals\bin\Debug\net6.0\Conditionals.deps.json
+E:\web\ASP_NET\DominicTripodi\CSharpBeginnerToMaster\CSharpCrash\Basics\DataStructures\Conditionals\bin\Debug\net6.0\Conditionals.runtimeconfig.json
+E:\web\ASP_NET\DominicTripodi\CSharpBeginnerToMaster\CSharpCrash\Basics\DataStructures\Conditionals\bin\Debug\net6.0\Conditionals.dll
+E:\web\ASP_NET\DominicTripodi\CSharpBeginnerToMaster\CSharpCrash\Basics\DataStructures\Conditionals\bin\Debug\net6.0\Conditionals.pdb
+E:\web\ASP_NET\DominicTripodi\CSharpBeginnerToMaster\CSharpCrash\Basics\DataStructures\Conditionals\obj\Debug\net6.0\Conditionals.csproj.AssemblyReference.cache
+E:\web\ASP_NET\DominicTripodi\CSharpBeginnerToMaster\CSharpCrash\Basics\DataStructures\Conditionals\obj\Debug\net6.0\Conditionals.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\DominicTripodi\CSharpBeginnerToMaster\CSharpCrash\Basics\DataStructures\Conditionals\obj\Debug\net6.0\Conditionals.AssemblyInfoInputs.cache
+E:\web\ASP_NET\DominicTripodi\CSharpBeginnerToMaster\CSharpCrash\Basics\DataStructures\Conditionals\obj\Debug\net6.0\Conditionals.AssemblyInfo.cs
+E:\web\ASP_NET\DominicTripodi\CSharpBeginnerToMaster\CSharpCrash\Basics\DataStructures\Conditionals\obj\Debug\net6.0\Conditionals.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\DominicTripodi\CSharpBeginnerToMaster\CSharpCrash\Basics\DataStructures\Conditionals\obj\Debug\net6.0\Conditionals.dll
+E:\web\ASP_NET\DominicTripodi\CSharpBeginnerToMaster\CSharpCrash\Basics\DataStructures\Conditionals\obj\Debug\net6.0\refint\Conditionals.dll
+E:\web\ASP_NET\DominicTripodi\CSharpBeginnerToMaster\CSharpCrash\Basics\DataStructures\Conditionals\obj\Debug\net6.0\Conditionals.pdb
+E:\web\ASP_NET\DominicTripodi\CSharpBeginnerToMaster\CSharpCrash\Basics\DataStructures\Conditionals\obj\Debug\net6.0\Conditionals.genruntimeconfig.cache
+E:\web\ASP_NET\DominicTripodi\CSharpBeginnerToMaster\CSharpCrash\Basics\DataStructures\Conditionals\obj\Debug\net6.0\ref\Conditionals.dll
