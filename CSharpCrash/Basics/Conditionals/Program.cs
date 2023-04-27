@@ -18,7 +18,7 @@ class Program
     System.Console.WriteLine("\n");
 
     // Check if name equals upperName
-    if (name.Equals(upperName)) System.Console.WriteLine("Both string are equals");
+    if (name.Equals(upperName.ToLower())) System.Console.WriteLine("Both string are equals");
     else System.Console.WriteLine("String in both variables are not equals");
     // Switch statements
     string todayIs = "";
